@@ -1,0 +1,14 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+background-color: linear-gradient(green ,aqua,blue);
+text-align:center;
+}
+img{
+transition: transform 2s;
+
+}
+img:hover{
+    transform:translate(10px);
+}
